@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshberry
 - 👀 I’m interested in Data Science & Analytics & Software Engineering
 - 🌱 I’m currently learning Python & DSA
-- 💞️ I’m looking to collaborate on coding
+- 💞️ I’m looking to collaborate on Kaggle
 - 📫 How to reach me https://www.linkedin.com/in/berryharsh/
 
 <!---
